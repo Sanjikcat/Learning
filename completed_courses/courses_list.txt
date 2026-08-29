@@ -1,0 +1,2 @@
+2024-06-15 | Python Basics | Coursera | Certificate_PythonBasics_Coursera.pdf
+2025-02-10 | Git и GitHub | Self-study | Notes_Git.txt
